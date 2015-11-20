@@ -1,0 +1,6 @@
+{
+    "preset": "airbnb",
+    "requireTrailingComma": null,
+		"validateIndentation": "\t",
+    "disallowSpacesInsideArrayBrackets": null
+}

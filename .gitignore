@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/.bin
+node_modules/express
+node_modules/eventemitter3
+node_modules/resolve
+node_modules/browserify
+node_modules/watchify
+node_modules/howler
+node_modules/stringify
+node_modules/colors
+node_modules/loglevel
